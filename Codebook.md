@@ -1,9 +1,4 @@
-CourseraDSTC3
-=============
-
-Getting And Cleaning Data Project
-
-Steps to clean the data(Step by step working of run_analysis.R):
+Steps to clean the data:
 
 1. Read train data from the "./train" folder and store them in appropraiate data frames.
 
